@@ -103,4 +103,3 @@ command + shift+V : Toggle Markdown preview\
  command + q (while in open \applications) : quit an application\
  control + left/right arrow : switch \among fullscreen apps/desktops\
  control + up arrow : toggle mission \control\
-
