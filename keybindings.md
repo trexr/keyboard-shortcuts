@@ -2,15 +2,15 @@
 
 ## VSCode 
 
-__Common shortcuts for editng/selecting code__\
-command + d : Add Selection to nex find match\
-command + shift + L : Select All occurrences of find match\
+__shortcuts for editing, selecting, traversing code__\
+command + d : Add selection to next find match(will highlight all occurences first\
+command + shift + L : Select All occurrences of find match(can also select text with cursor first)\
 command + shift + A : Wrap individual lines with code(select line first: command + L\ 
-command + H : Balance outward (custom keybinding)\
-command + control + H : Balance outward (custom keybinding)\
+command + l : select the whole line\
+control + shift + k : delete the whole line
+command + H : Balance outward -select code outward of cursor(custom keybinding)\
+command + control + H : Balance inward (custom keybinding)\
 command + T : Go to matching pair (custom keybinding, had to override)\
-command + K M : Change language mode\
-
 
 command + B : Toggle Sidebar\
 command + shift+V : Toggle Markdown preview\
@@ -18,31 +18,24 @@ command + shift+V : Toggle Markdown preview\
  command + control + f : toggle fullscreen\
  command + control + shift + f : toggle distraction free\
  option + arrows : move one word at a time\
-
  command + arrows : move to beginning and end of line\
  shift + above commands : select all the text\
-
  delete + the above : delete all the text\
  fn + delete : delete forward\
 
  command + z : undo\
  command + shift + z : redo\
  command + / : toggle comment for line\
-
  command + ] : shift indenting right\
  command + [ : shift indenting left\
 
- command + l : select the whole line\
- control + shift + k : delete the whole line\
-
  command + c (with selection) : copy selection\
  command + x (with selection) : cut selection\
-
+ command + x : cut the whole line\
+ command + c : copy the whole line\
  command + v : paste most recent cut or copy\
  command + shift + v : paste with proper indentation\
 
- command + x : cut the whole line\
- command + c : copy the whole line\
  command + enter : create new line below\
  command + shift + enter : create new line above\
  command + shift + d : copy current line below\
@@ -51,10 +44,7 @@ command + shift+V : Toggle Markdown preview\
 
  command + k, command + l : make selection lower case\
  control + m : move to beginning/end of parens and braces\
-
- 
  command + k while selecting words : don't select word\ 
- command + control + g : select all of words\
  option + mouseDrag : column select\
  command + mouseClick : custom multiple cursor\
 
@@ -65,6 +55,7 @@ command + shift+V : Toggle Markdown preview\
  command + k, command + b : toggle file bar\
  command + option + NUMBER : split screen\
  control + shift + NUMBER : move current file to pane\
+ command + K M : Change language mode\
 
 
 ## Chrome, VSCode and Bash:
