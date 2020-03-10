@@ -1,5 +1,5 @@
 # Useful Keyboard shortcuts (Keybindings)
-#### [VSCode][],  
+#### VSCode, Chrome, Bash, OSX 
 
 ## VSCode 
 
@@ -84,7 +84,7 @@ command + shift+V : Toggle Markdown preview\
  command + ] : move forward through history
 
 
-## <a name="gmail"></a>Gmail setup keyboard shortcuts
+## Gmail setup keyboard shortcuts
  ? : show keyboard shortcuts\
  j : move downward\
  k : move upward\
