@@ -1,5 +1,5 @@
 # Useful Keyboard shortcuts (Keybindings)
-### [VSCode](), [Gmail](Gmail) 
+#### [VSCode][],  
 
 ## VSCode 
 
