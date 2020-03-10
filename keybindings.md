@@ -5,7 +5,7 @@
 __shortcuts for editing, selecting, traversing code__\
 command + d : Add selection to next find match(will highlight all occurences first\
 command + shift + L : Select All occurrences of find match(can also select text with cursor first)\
-command + shift + A : Wrap individual lines with code(select line first: command + L\ 
+command + shift + A : Wrap individual lines with code(select line first: command + L)\ 
 command + l : select the whole line\
 control + shift + k : delete the whole line\
 command + H : Balance outward -select code outward of cursor(custom keybinding)\
@@ -51,7 +51,7 @@ command + shift+V : Toggle Markdown preview\
  command + p : open file\
  command + shift + p : set syntax (and many many other things)\
  command + f : find\
- command + shift + f : massive find\
+ command + shift + f : massive find (similiar to grep -r\
  command + k, command + b : toggle file bar\
  command + option + NUMBER : split screen\
  control + shift + NUMBER : move current file to pane\
@@ -103,3 +103,4 @@ command + shift+V : Toggle Markdown preview\
  command + q (while in open \applications) : quit an application\
  control + left/right arrow : switch \among fullscreen apps/desktops\
  control + up arrow : toggle mission \control\
+
