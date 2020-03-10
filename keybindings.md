@@ -2,16 +2,18 @@
 
 ## VSCode 
 
-__shortcuts for editing, selecting, traversing code__\
+__Useful shortcuts for editing, selecting, traversing code__\
 command + d : Add selection to next find match(will highlight all occurences first\
 command + shift + L : Select All occurrences of find match(can also select text with cursor first)\
-command + shift + A : Wrap individual lines with code(select line first: command + L)\ 
+command + shift + A : Wrap individual lines with code, select line first: command + L\
 command + l : select the whole line\
 control + shift + k : delete the whole line\
 command + H : Balance outward -select code outward of cursor(custom keybinding)\
 command + control + H : Balance inward (custom keybinding)\
 command + T : Go to matching pair (custom keybinding, had to override)\
 
+
+__Other shortcuts__\
 command + B : Toggle Sidebar\
 command + shift+V : Toggle Markdown preview\
  control + shift + G : Source Control\
