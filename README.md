@@ -1,8 +1,10 @@
 # Useful Keyboard shortcuts (Keybindings)
+### [VSCode](), [Gmail](Gmail) 
 
 ## VSCode 
 
-__Useful shortcuts for editing, selecting, traversing code__\
+
+__Useful shortcuts for editing, selecting, traversing code. See them in action [here](https://docs.emmet.io/actions/)__\
 command + d : Add selection to next find match(will highlight all occurences first\
 command + shift + L : Select All occurrences of find match(can also select text with cursor first)\
 command + shift + A : Wrap individual lines with code, select line first: command + L\
@@ -82,7 +84,7 @@ command + shift+V : Toggle Markdown preview\
  command + ] : move forward through history
 
 
-## Gmail setup keyboard shortcuts
+## <a name="gmail"></a>Gmail setup keyboard shortcuts
  ? : show keyboard shortcuts\
  j : move downward\
  k : move upward\
