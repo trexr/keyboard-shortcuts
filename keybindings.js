@@ -1,18 +1,19 @@
 //*****************/
-//VSCode
+// VSCode
+//*****************/
 
 // command + shift + L = Select All occurrences of find match 
 // command + shift + A = Wrap individual lines 
 // command + H = Balance outward (custom keybinding)
 // command + control + H = Balance outward (custom keybinding)
 
-// command + T = Go to matching pair (custom keybinding)
+// command + T = Go to matching pair (custom keybinding, had to override)
 // command + K M = Change language mode
 // command + B = Toggle Sidebar
 // command + shift+V = Toggle Markdown preview
 
-// control +shift+G = Source Control
-// Command + control + f : toggle fullscreen
+// control + shift + G = Source Control
+// command + control + f : toggle fullscreen
 // command + control + shift + f : toggle distraction free
 // option + arrows : move one word at a time
 
@@ -63,7 +64,9 @@
 // control + shift + NUMBER : move current file to pane
 
 //*****************/
-// Chrome / VSCode / and Bash:
+// Chrome, VSCode and Bash:
+//*****************/
+
 // command + n : create new window
 // command + t : create new tab
 // command + shift + t : reopen last closed tab (not in Bash)
@@ -73,8 +76,11 @@
 // command + shift + [ : move left one tab
 // command + NUMBER : move to tab number NUMBER (not in Bash)
 
+
 //*****************/
-// Chrome:
+// Chrome
+//*****************/
+
 // pin tabs
 // command + r : reload page
 // command + option + j : open the javascript console
@@ -82,8 +88,11 @@
 // command + [ : move backward through history
 // command + ] : move forward through history
 
+
 //*****************/
-// Gmail:
+// Gmail
+//*****************/
+
 // setup keyboard shortcuts
 // ? : show keyboard shortcuts
 // j : move downward
@@ -105,6 +114,8 @@
 
 //*****************/
 // OSX:
+//*****************/
+
 // command + tab : switch open applications
 // command + ` : switch open applications in reverse
 // command + q (while in open applications) : quit an application
